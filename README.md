@@ -14,3 +14,5 @@ This is works as the part of the high level security as the strategy to escape e
           ``` last-four-password-before-clear + append by char1 || ....```
        The maximum number of password character alllowed is about 10 charcter that means the program only check for 10 queue size to matching password of the user start from the last digit all
         the way to the back of the string until the 10 digits is reached so all combination will be checked out  
+- The new security tips
+   - The camera will be used to record a configured number of seconds to be record in front camera and save it in secure folder, as showing the foot prints to one tried to bypass security
